@@ -12,7 +12,7 @@ If you would like to add to these you may make an issue on github (linked above)
 
 1. Basic Syntax
 2. Variables
-3. [If statements]()
+3. [If statements](https://github.com/CapelaGames/csProgrammingBasics/blob/main/if.md)
 4. Loops
 5. Classes and Functions
 6. 
