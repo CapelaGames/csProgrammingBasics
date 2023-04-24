@@ -19,4 +19,7 @@ If you would like to add to these you may make an issue on github (linked above)
 5. [Loops](https://github.com/CapelaGames/csProgrammingBasics/blob/main/loops.md)
 6. [Classes and Functions](https://github.com/CapelaGames/csProgrammingBasics/blob/main/classFunc.md)
 7. 
+
+Other:
+[1] [How to submit](https://github.com/CapelaGames/csProgrammingBasics/blob/main/submit.md)
 ?. Git and Github
