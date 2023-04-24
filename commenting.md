@@ -5,9 +5,11 @@ Commenting is an important part of making your code easy to read, not just for o
 
 In C# there are multiple ways you might make comments.
 
-## When should I comment code?
-
-
+## Best practices
+Before learning how to comment, lets talk about a few tips on when and where to comment.
+* Comment sections of code allowing another developer to skim your code.
+* Explain anything not instantly understandable
+* Comments should dispel confusion
 
 
 ## Single line comments
