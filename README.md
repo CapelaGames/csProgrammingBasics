@@ -21,5 +21,5 @@ If you would like to add to these you may make an issue on github (linked above)
 7. 
 
 Other:
-[1] [How to submit](https://github.com/CapelaGames/csProgrammingBasics/blob/main/submit.md)
-?. Git and Github
+1. [How to submit](https://github.com/CapelaGames/csProgrammingBasics/blob/main/submit.md)
+2. [Git and Github](https://github.com/CapelaGames/csProgrammingBasics/blob/main/git.md)
