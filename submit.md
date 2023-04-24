@@ -1,14 +1,12 @@
-# Submitting on moodle
-
-## How to submit
-
-To submit a project on moodle it requires a few things
+# Submitting on moodle 
+To submit a project on moodle it requiresthe following
 
 ## APP files
 Open up your Unity project folder. You will need to add (compress) the following folders to a .zip file.
 * Applications
 * Packages
-* Project Settings <br>
+* Project Settings
+
 Submit the .zip file
 
 ## Game Build

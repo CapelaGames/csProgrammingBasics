@@ -13,12 +13,12 @@ If you would like to add to these you may make an issue on github (linked above)
 ## Contents
 
 1. [Basic Syntax](https://github.com/CapelaGames/csProgrammingBasics/blob/main/syntax.md)
-2. [Variables](https://github.com/CapelaGames/csProgrammingBasics/blob/main/variables.md)
-3. [Expressions](https://github.com/CapelaGames/csProgrammingBasics/blob/main/expressions.md)
-4. [If statements](https://github.com/CapelaGames/csProgrammingBasics/blob/main/if.md)
-5. [Loops](https://github.com/CapelaGames/csProgrammingBasics/blob/main/loops.md)
-6. [Classes and Functions](https://github.com/CapelaGames/csProgrammingBasics/blob/main/classFunc.md)
-7. 
+2. [Commenting](https://github.com/CapelaGames/csProgrammingBasics/blob/main/commenting.md)
+3. [Variables](https://github.com/CapelaGames/csProgrammingBasics/blob/main/variables.md)
+4. [Expressions](https://github.com/CapelaGames/csProgrammingBasics/blob/main/expressions.md)
+5. [If statements](https://github.com/CapelaGames/csProgrammingBasics/blob/main/if.md)
+6. [Loops](https://github.com/CapelaGames/csProgrammingBasics/blob/main/loops.md)
+7. [Classes and Functions](https://github.com/CapelaGames/csProgrammingBasics/blob/main/classFunc.md)
 
 Other:
 1. [How to submit](https://github.com/CapelaGames/csProgrammingBasics/blob/main/submit.md)
