@@ -3,7 +3,12 @@ Comments are sections of code that gets ignored by the computer. This is nice be
 
 Commenting is an important part of making your code easy to read, not just for others, but yourself in 3 months time, or 5 years time. You might have forgotten what your code does, but the comments will help you understand.
 
-In C# there are multiple ways you might make a comment.
+In C# there are multiple ways you might make comments.
+
+## When should I comment code?
+
+
+
 
 ## Single line comments
 To add a single line comment, just write //
@@ -32,7 +37,9 @@ this line is also a comment.
 ```
 
 ## Regions
-This is a method of organising code that can work with comments to make your code neat. It sections off parts of your code, allowing you to minimise that part of your code, and keep your code organised. As the name suggests, if give your code regions, to help organise your code. To use it use "#region MyRegion" to start a region, MyRegion can be any name you like. Finally use #endregion to end a region. Give it a try to understand.
+This is a method of organising code that can work with comments to make your code neat. It sections off parts of your code, allowing you to minimise that part of your code, and keep your code organised. As the name suggests, if give your code regions, to help organise your code. 
+
+To use it use "#region MyRegion" to start a region, MyRegion can be any name you like. Finally use #endregion to end a region. Give it a try to understand.
 
 ```
 public class Health : MonoBehaviour
