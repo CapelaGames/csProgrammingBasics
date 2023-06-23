@@ -23,3 +23,4 @@ If you would like to add to these you may make an issue on github (linked above)
 Other:
 1. [How to submit](https://github.com/CapelaGames/csProgrammingBasics/blob/main/submit.md)
 2. [Git and Github](https://github.com/CapelaGames/csProgrammingBasics/blob/main/git.md)
+3. [Machine Learning](./ml.md)
