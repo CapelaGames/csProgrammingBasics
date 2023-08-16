@@ -12,14 +12,15 @@ If you would like to add to these you may make an issue on github (linked above)
 
 ## Contents
 
-1. [Basic Syntax](https://github.com/CapelaGames/csProgrammingBasics/blob/main/syntax.md)
-2. [Commenting](https://github.com/CapelaGames/csProgrammingBasics/blob/main/commenting.md)
-3. [Variables](https://github.com/CapelaGames/csProgrammingBasics/blob/main/variables.md)
-4. [Expressions](https://github.com/CapelaGames/csProgrammingBasics/blob/main/expressions.md)
-5. [If statements](https://github.com/CapelaGames/csProgrammingBasics/blob/main/if.md)
-6. [Loops](https://github.com/CapelaGames/csProgrammingBasics/blob/main/loops.md)
-7. [Classes and Functions](https://github.com/CapelaGames/csProgrammingBasics/blob/main/classFunc.md)
+1. [Basic Syntax](./syntax.md)
+2. [Commenting](./commenting.md)
+3. [Variables](./variables.md)
+4. [Expressions](./expressions.md)
+5. [If statements](./if.md)
+6. [Loops](./loops.md)
+7. [Classes and Functions](./classFunc.md)
 
 Other:
-1. [How to submit](https://github.com/CapelaGames/csProgrammingBasics/blob/main/submit.md)
-2. [Git and Github](https://github.com/CapelaGames/csProgrammingBasics/blob/main/git.md)
+1. [How to submit](./submit.md)
+2. [Git and Github](./git.md)
+3. [Machine Learning](./ml.md)

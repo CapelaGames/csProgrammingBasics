@@ -3,7 +3,7 @@ To submit a project on moodle it requires the following
 
 ## APP files
 Open up your Unity project folder. You will need to add (compress) the following folders to a .zip file.
-* Applications
+* Assets
 * Packages
 * Project Settings
 
