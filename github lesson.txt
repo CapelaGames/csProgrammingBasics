@@ -1,0 +1,26 @@
+CMD
+cd 
+.
+..
+..\..
+dir
+mkdir
+
+BASH
+cd
+ls
+mkdir
+
+GIT
+clone (Copy repo locally)
+init
+status
+
+git add 
+stage
+
+git commit -m ""
+git push (uploads changes)
+git fetch (refresh)
+git pull (downloads changes)
+quit vi/vim  :q!
