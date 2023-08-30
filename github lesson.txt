@@ -24,3 +24,11 @@ git push (uploads changes)
 git fetch (refresh)
 git pull (downloads changes)
 quit vi/vim  :q!
+
+
+more code stuff
+
+sadsad
+sad
+sa
+dsa
