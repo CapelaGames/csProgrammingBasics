@@ -22,5 +22,5 @@ If you would like to add to these you may make an issue on github (linked above)
 
 Other:
 1. [How to submit](./submit.md)
-2. [Git and Github](./git.md)
+2. [Git Commands](./git_commands.md)
 3. [Machine Learning](./ml.md)
