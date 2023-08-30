@@ -26,9 +26,20 @@ git pull (downloads changes)
 quit vi/vim  :q!
 
 
-more code stuff
+git branch 
+	Branches that exsist
+git status
+	What branch you are in
+git branch name_of_branch
+	Create a branch based 
+	off the branch you are in
+git push --set-upstream origin name_of_branch
+	add the branch to github
+(you then need to push)
 
-sadsad
-sad
-sa
-dsa
+[part 1](./folder/part1.md)
+
+12.	True or False: You should commit related changes.
+ For example, fixing two different bugs should produce two 
+separate commits.
+
