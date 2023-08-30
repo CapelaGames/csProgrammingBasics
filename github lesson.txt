@@ -42,3 +42,5 @@ git push --set-upstream origin name_of_branch
 12.	True or False: You should commit related changes.
  For example, fixing two different bugs should produce two 
 separate commits.
+
+conflict 2
