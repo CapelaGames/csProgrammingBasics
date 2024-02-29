@@ -99,6 +99,12 @@ git push
 
 ## Extras
 
+### Make a file in bash
+To make a file, use touch plus the name of the file you want to make (it will be empty)
+```
+touch nameOfFile.md
+```
+
 ### Change default branch's name
 If you want to change your default branch name
 ```
@@ -118,6 +124,7 @@ then you can use:
 ```
 git adog
 ```
+![adog](./Screenshots/adog.jpg)
 
 ### Help I'm stuck in vim
 type `:q!`
