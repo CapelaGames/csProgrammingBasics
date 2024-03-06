@@ -78,7 +78,19 @@ Navigate to the Navigation Tab, if you don't have it open, open it again:
 But this time we are going to add a new Agent type, just click the plus as shown in the screenshot below. Just don't forget to click the Agents tab:
 ![New Agent](./Screenshots/unityainewtypes.png) 
 
-## Example Code
+## Example Code In Class
+
+### Open the door
+The door script we did in class, it currently only works with "Collect Items". If you want it to work on its own, uncomment the update function.
+
+[Open the door script](https://gist.github.com/CapelaGames/02d1d43dc390c24e9b402010a750d88d)
+
+### Collect Items
+Works with "Open the door" the collectables must be tagged as "Collectable" (in the inspector, top left)
+[Collect Items Script](https://gist.github.com/CapelaGames/df4a4af19713b4289d2756d27df92d1c)
+
+
+## Example Code Unity
 
 ### Move to a destination
 [Move to a destination](https://docs.unity3d.com/Packages/com.unity.ai.navigation@1.1/manual/NavMoveToDestination.html) 
