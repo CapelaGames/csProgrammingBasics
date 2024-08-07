@@ -127,7 +127,7 @@ git adog
 ![adog](./Screenshots/adog.jpg)
 
 ### Help I'm stuck in vim
-type `:q!`
+type `esc :q!`
 
 
 
