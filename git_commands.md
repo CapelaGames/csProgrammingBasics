@@ -16,6 +16,7 @@ Unix-like commands
 |-------------------|-------------------|-------------------|
 | ls				|	Displays files in the current folder | `ls`|
 | ..\/..			|	Substitute for Parent of Parent folder |	`ls ../..` OR `dir ../..` |		
+| pwd				|	Displays current folder path | `pwd`|
 
 ## General Commands
 Works in both CMD and BASH
